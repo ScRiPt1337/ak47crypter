@@ -8,5 +8,7 @@ its only work in scan time
 1.pyinstaller
 command = pip install pyinstaller
 
+# ITS a joke lol 
+
 contact me here : https://www.facebook.com/Script1337/
 
